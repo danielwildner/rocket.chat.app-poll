@@ -6,6 +6,9 @@ import { IAppInfo } from '@rocket.chat/apps-engine/definition/metadata';
 import { PollCommand } from './src/PollCommand';
 import { VoteCommand } from './src/VoteCommand';
 
+
+//  opa
+
 export class PollApp extends App {
 
     constructor(info: IAppInfo, logger: ILogger) {
